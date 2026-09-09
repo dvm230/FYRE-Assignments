@@ -1,0 +1,5 @@
+# Revision of Program 2 on September 9
+# String name set equal to "Dan"
+name = 'Dan'
+# Prints string name
+print(name)
